@@ -1,9 +1,5 @@
 <h1 align="center">RocketMovies</h1>
 
-
-<img src="./src/assets/Interface.png"/>
-
-
 <div align="center">
 
 
